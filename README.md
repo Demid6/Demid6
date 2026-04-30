@@ -9,7 +9,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:333333&height=200&section=header&text=Demid6&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Developer%20•%20Engineer%20•%20Explorer&descAlignY=60&descColor=cccccc" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ffffff,100:e0e0e0&height=200&section=header&text=Demid6&fontSize=80&fontColor=000000&animation=fadeIn&fontAlignY=38&desc=Developer%20•%20Engineer%20•%20Explorer&descAlignY=60&descColor=333333" />
 
 <br/>
 
@@ -17,9 +17,9 @@
 
 <br/>
 
-![](https://komarev.com/ghpvc/?username=Demid6&style=for-the-badge&color=black&label=PROFILE+VIEWS)
+![](https://komarev.com/ghpvc/?username=Demid6&style=for-the-badge&color=000000&label=PROFILE+VIEWS)
 &nbsp;
-![](https://img.shields.io/github/followers/Demid6?style=for-the-badge&color=black&label=FOLLOWERS)
+![](https://img.shields.io/github/followers/Demid6?style=for-the-badge&color=000000&label=FOLLOWERS)
 
 </div>
 
@@ -54,7 +54,6 @@ Telegram: @DEMlD9
 </p>
 
 <p align="left">
-  <!-- Assembly — нет иконки в devicons, используем badge -->
   <img src="https://img.shields.io/badge/Assembly-000000?style=for-the-badge&logo=assemblyscript&logoColor=white"/>
 </p>
 
@@ -106,17 +105,17 @@ Telegram: @DEMlD9
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Demid6&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=c9d1d9&icon_color=ffffff&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Demid6&show_icons=true&theme=default&hide_border=true&bg_color=ffffff&title_color=000000&text_color=333333&icon_color=000000&include_all_commits=true&count_private=true"/>
 &nbsp;
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Demid6&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=c9d1d9&langs_count=8"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Demid6&layout=compact&theme=default&hide_border=true&bg_color=ffffff&title_color=000000&text_color=333333&langs_count=8"/>
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=Demid6&theme=dark&hide_border=true&background=0d1117&stroke=ffffff&ring=ffffff&fire=ffffff&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=888888&sideLabels=888888&dates=555555" />
+<img src="https://streak-stats.demolab.com?user=Demid6&theme=default&hide_border=true&background=ffffff&stroke=000000&ring=000000&fire=000000&currStreakNum=000000&sideNums=333333&currStreakLabel=666666&sideLabels=666666&dates=999999" />
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Demid6&theme=github-compact&bg_color=0d1117&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=true" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Demid6&theme=github-light&bg_color=ffffff&color=000000&line=000000&point=333333&area=true&hide_border=true" />
 
 </div>
 
@@ -136,26 +135,9 @@ Telegram: @DEMlD9
 
 ---
 
-## ▸ Уровень владения
-
-C / C++           ████████████████░░░░  80%
-Python            ██████████████████░░  90%
-Java              █████████████░░░░░░░  65%
-C#                ████████████░░░░░░░░  60%
-Assembly (x86)    ██████████░░░░░░░░░░  50%
-JavaScript        ████████████████░░░░  80%
-PHP               ██████████░░░░░░░░░░  50%
-SQL               ████████████████░░░░  80%
-Linux             ████████████████░░░░  80%
-TCP/IP Networks   ██████████████░░░░░░  70%
-High Math         ███████████████░░░░░  75%
-
-
----
-
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:333333,100:000000&height=120&section=footer&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:e0e0e0,100:ffffff&height=120&section=footer&animation=fadeIn"/>
 
 *`> "Код — это поэзия, которая компилируется и побеждает"`*
 
