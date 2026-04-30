@@ -1,37 +1,66 @@
-# 👋 Привет, я Demid6
+<!--
+Светлая тема для профиля GitHub
+-->
 
-## 🚀 О себе
+<h1 align="center">✨ Demid6 ✨</h1>
 
-Я разработчик, изучаю веб-технологии и создаю интересные проекты.  
-В данный момент работаю над веб-сервисом на Django.
-
-## 🛠️ Технологии и инструменты
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-## 📊 Статистика
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=flem6&show_icons=true&theme=dark)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=flem6&layout=compact&theme=dark)
-
-## 📫 Как со мной связаться
-
-- Telegram: [@ваш_ник](https://t.me/ваш_ник)
-- Email: ваша_почта@example.com
-
-## 🔥 Последние проекты
-
-| Название | Описание | Стек |
-|----------|----------|------|
-| Mentalist Web Service | Веб-сервис на Django | Django, Python, WebSockets |
-| Telegram Bot | Бот для автоматизации | Python, aiogram |
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=000000&center=true&width=435&lines=Developer;Creator;Open+Sourcing" alt="Typing SVG" />
+</p>
 
 ---
 
-⭐️ **Не стесняйтесь форкать мои репозитории и ставить звёзды!**
+## 👋 Обо мне
+
+Привет! Я **Demid6** — разработчик, создаю полезные инструменты и делюсь кодом с сообществом.  
+Люблю разбираться в новых технологиях и применять их на практике.
+
+📫 **Связаться со мной:** [@DEMlD9](https://t.me/DEMlD9) в Telegram
+
+---
+
+## 🛠️ Стек технологий
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="50" style="filter: brightness(0);"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="50" height="50" style="filter: brightness(0);"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" height="50" style="filter: brightness(0);"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" height="50" style="filter: brightness(0);"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" height="50" style="filter: brightness(0);"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" height="50" style="filter: brightness(0);"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50" height="50" style="filter: brightness(0);"/>
+</p>
+
+---
+
+## 📊 Статистика
+
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=Demid6&show_icons=true&theme=default&hide_border=true&bg_color=ffffff&title_color=000000&text_color=333333&icon_color=555555" />
+    </td>
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Demid6&layout=compact&theme=default&hide_border=true&bg_color=ffffff&title_color=000000&text_color=333333" />
+    </td>
+  </tr>
+</table>
+
+---
+
+## 🔥 Мои проекты
+
+| Проект | Описание |
+|--------|----------|
+| [WEB](https://github.com/Demid6/WEB) | Веб-приложение на Django |
+| скоро... | Новые проекты в разработке |
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Demid6&style=flat-square&color=gray&label=просмотров+профиля" alt="Profile views" />
+</p>
+
+<p align="center">
+  <i>⚡ “Код — это поэзия, которая запускается”</i>
+</p>
