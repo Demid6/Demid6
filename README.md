@@ -105,10 +105,6 @@ Telegram: @DEMlD9
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Demid6&show_icons=true&theme=default&hide_border=true&bg_color=ffffff&title_color=000000&text_color=333333&icon_color=000000&include_all_commits=true&count_private=true"/>
-&nbsp;
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Demid6&layout=compact&theme=default&hide_border=true&bg_color=ffffff&title_color=000000&text_color=333333&langs_count=8"/>
-
 <br/><br/>
 
 <img src="https://streak-stats.demolab.com?user=Demid6&theme=default&hide_border=true&background=ffffff&stroke=000000&ring=000000&fire=000000&currStreakNum=000000&sideNums=333333&currStreakLabel=666666&sideLabels=666666&dates=999999" />
