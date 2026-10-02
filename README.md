@@ -1,19 +1,29 @@
 <!--
-  ██████╗ ███████╗███╗   ███╗██╗██████╗  ██████╗
-  ██╔══██╗██╔════╝████╗ ████║██║██╔══██╗██╔════╝
-  ██║  ██║█████╗  ██╔████╔██║██║██║  ██║███████╗
-  ██║  ██║██╔══╝  ██║╚██╔╝██║██║██║  ██║██╔═══╝
-  ██████╔╝███████╗██║ ╚═╝ ██║██║██████╔╝╚██████╗
-  ╚═════╝ ╚══════╝╚═╝     ╚═╝╚═╝╚═════╝  ╚═════╝
+  ╔══════════════════════════════════════════════════════════╗
+  ║   D E M I D 6  —  Developer · Engineer · Explorer        ║
+  ║   Low-level & High-level · Systems · Web · Math · Nets   ║
+  ╚══════════════════════════════════════════════════════════╝
 -->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ffffff,100:e0e0e0&height=200&section=header&text=Demid6&fontSize=80&fontColor=000000&animation=fadeIn&fontAlignY=38&desc=Developer%20•%20Engineer%20•%20Explorer&descAlignY=60&descColor=333333" />
+<picture>
+  <source media="(prefers-color-scheme: dark)"
+          srcset="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:161b22&height=200&section=header&text=Demid6&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Developer%20%E2%80%A2%20Engineer%20%E2%80%A2%20Explorer&descAlignY=60&descColor=c9d1d9" />
+  <source media="(prefers-color-scheme: light)"
+          srcset="https://capsule-render.vercel.app/api?type=waving&color=0:ffffff,100:e0e0e0&height=200&section=header&text=Demid6&fontSize=80&fontColor=000000&animation=fadeIn&fontAlignY=38&desc=Developer%20%E2%80%A2%20Engineer%20%E2%80%A2%20Explorer&descAlignY=60&descColor=333333" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ffffff,100:e0e0e0&height=200&section=header&text=Demid6&fontSize=80&fontColor=000000&animation=fadeIn&fontAlignY=38&desc=Developer%20%E2%80%A2%20Engineer%20%E2%80%A2%20Explorer&descAlignY=60&descColor=333333" />
+</picture>
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=1000&color=000000&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Low-level+%26+High-level+Developer;Systems+%7C+Web+%7C+Math+%7C+Networks;01000011+01001111+01000100+01000101)](https://git.io/typing-svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)"
+          srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Low-level+%26+High-level+Developer;Systems+%7C+Web+%7C+Math+%7C+Networks;01000011+01001111+01000100+01000101" />
+  <source media="(prefers-color-scheme: light)"
+          srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=1000&color=000000&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Low-level+%26+High-level+Developer;Systems+%7C+Web+%7C+Math+%7C+Networks;01000011+01001111+01000100+01000101" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=1000&color=000000&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Low-level+%26+High-level+Developer;Systems+%7C+Web+%7C+Math+%7C+Networks;01000011+01001111+01000100+01000101" />
+</picture>
 
 <br/>
 
@@ -25,23 +35,30 @@
 
 ---
 
-## ▸ Обо мне
+## ◈ Обо мне
 
-whoami
+```bash
+$ whoami
 Demid6 — разработчик полного цикла.
-От ассемблера до веба. От матанализа до TCP/IP.
-Пишу код. Решаю задачи. Строю системы.
+```
 
+От ассемблера до веба.  
+От матанализа до TCP/IP.  
+Просто возьмите меня уже куда-нибудь, я очень нишевый.
 
-contact
-Telegram: @DEMlD9
+> _«Программист ошибается всего дважды за свою жизнь.
+>  Первый раз при рождении, второй при выборе профессии.»_
 
+```bash
+$ contact
+Telegram: @DEMlDlK
+```
 
 ---
 
-## ▸ Стек технологий
+## ◈ Стек технологий
 
-### ⬛ Языки программирования
+### ⬢ Языки программирования
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="45" height="45" title="C"/>
@@ -57,7 +74,7 @@ Telegram: @DEMlD9
   <img src="https://img.shields.io/badge/Assembly-000000?style=for-the-badge&logo=assemblyscript&logoColor=white"/>
 </p>
 
-### ⬛ Веб и фреймворки
+### ⬢ Веб и фреймворки
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="45" height="45" title="Django"/>
@@ -65,7 +82,7 @@ Telegram: @DEMlD9
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45" height="45" title="CSS3"/>
 </p>
 
-### ⬛ Базы данных
+### ⬢ Базы данных
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="45" height="45" title="PostgreSQL"/>
@@ -73,7 +90,7 @@ Telegram: @DEMlD9
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="45" height="45" title="SQLite"/>
 </p>
 
-### ⬛ Системы и сети
+### ⬢ Системы и сети
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="45" height="45" title="Linux"/>
@@ -82,7 +99,7 @@ Telegram: @DEMlD9
   <img src="https://img.shields.io/badge/Computer%20Networks-111111?style=for-the-badge&logo=wireshark&logoColor=white"/>
 </p>
 
-### ⬛ Математика
+### ⬢ Математика
 
 <p align="left">
   <img src="https://img.shields.io/badge/Mathematical%20Analysis-000000?style=for-the-badge&logo=wolfram&logoColor=white"/>
@@ -92,7 +109,7 @@ Telegram: @DEMlD9
   <img src="https://img.shields.io/badge/Mathematical%20Statistics-000000?style=for-the-badge&logo=scipy&logoColor=white"/>
 </p>
 
-### ⬛ Инструменты
+### ⬢ Инструменты
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" height="45" title="Git"/>
@@ -101,31 +118,18 @@ Telegram: @DEMlD9
 
 ---
 
-## ▸ Статистика
-
-<div align="center">
-
-<br/><br/>
-
-<img src="https://streak-stats.demolab.com?user=Demid6&theme=default&hide_border=true&background=ffffff&stroke=000000&ring=000000&fire=000000&currStreakNum=000000&sideNums=333333&currStreakLabel=666666&sideLabels=666666&dates=999999" />
-
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Demid6&theme=github-light&bg_color=ffffff&color=000000&line=000000&point=333333&area=true&hide_border=true" />
-
-</div>
 
 ---
 
-## ▸ Проекты
+## ◈ Проекты
 
 <div align="center">
 
-| 🔲 Проект | 📋 Описание | 🏷️ Стек |
+| 🔥 Проект | 📋 Описание | 🏷️ Стек |
 |:---------:|:-----------:|:-------:|
 | [**WEB**](https://github.com/Demid6/WEB) | Full-stack веб-приложение | Django · Python · HTML/CSS |
-| 🚧 **В разработке** | Системный инструмент | C · Linux |
-| 🚧 **В разработке** | Новые проекты скоро... | ??? |
+| 🟡 **В разработке** | Системный инструмент | C · Linux |
+| 🟡 **В разработке** | Новые проекты скоро... | ??? |
 
 </div>
 
@@ -133,10 +137,16 @@ Telegram: @DEMlD9
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:e0e0e0,100:ffffff&height=120&section=footer&animation=fadeIn"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)"
+          srcset="https://capsule-render.vercel.app/api?type=waving&color=0:161b22,100:0d1117&height=120&section=footer&animation=fadeIn" />
+  <source media="(prefers-color-scheme: light)"
+          srcset="https://capsule-render.vercel.app/api?type=waving&color=0:e0e0e0,100:ffffff&height=120&section=footer&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:e0e0e0,100:ffffff&height=120&section=footer&animation=fadeIn" />
+</picture>
 
-*`> "Код — это поэзия, которая компилируется и побеждает"`*
+**`> "Код — это поэзия, которая компилируется и побеждает"`**
 
-**[↑ Наверх](#)**
+**[⬎ Наверх](#)**
 
 </div>
